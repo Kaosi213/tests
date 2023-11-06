@@ -1,0 +1,100 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{ font-family:'Roboto', sans-serif;}
+li {list-style-type: none;
+    color:#828282;
+    float:left;
+    display:flex;
+    padding:20px;
+    font-weight:700;
+}
+.project {
+    position: relative;
+    left:250px;
+    bottom:100px;
+}
+.klt {
+    position:relative;
+    top:200px;
+    display:flex;
+    flex-direction: column;
+    right:300px
+}
+ .educate{
+    font-size: 80px;
+    right:50px;
+    margin-top:30px;
+    color:rgb(0, 92, 51);
+}
+.bord{
+    border-top:5px solid rgba(0, 92, 51);
+    color: rgba(255, 255, 255, 0.521);
+    margin-right:850px;
+}
+.investing {
+    font-size:30px;
+    margin-bottom:50px;
+    margin-top:20px;
+    color:rgba(0, 92, 51);
+    font-weight:300;
+}
+.consult{
+    background-color:#15d6b9;
+    border-radius:4px;
+    box-shadow: 4px 7px rgba(0, 0, 0, 0.1);
+    padding: 8px 24px;
+    margin:0 10px;
+    border:none;
+    color:white;
+    font-size:12px;
+    font-weight:400;
+    cursor:pointer;
+    transition:all 0.3s ease;
+    margin-right:650px;
+    margin-left:85px;
+    position:relative;
+    right:70px;
+}
+button{
+    color:white;
+    border:none;
+   background-color:#15d6b9;
+    font-weight:400;
+}  
+body{
+    background-color:rgba(255, 255, 255, 0.521)75%;
+    
+}
+.fun{
+    float:right;
+    position: relative;
+    bottom:235px;
+    
+}
+img {
+    height:400px;
+    width:600px;
+    bottom:200px;
+}
+a:hover{
+    color:#15d6b9;
+}
+a:link{
+    color:#828282;
+}
+i {
+   float:right;
+    position:relative;
+    bottom:360px;
+    left:550px;
+    font-size:18px;
+    height:34px;
+    width:34px;
+    color:#15d6b9;
+    cursor:cell;
+}
+
+.img{
+    height:100px;
+    width:300px;
+    bottom:150px;
+}
